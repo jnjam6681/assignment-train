@@ -1,0 +1,9 @@
+FROM 
+
+COPY
+
+RUN
+
+EXPOSE
+
+CMD

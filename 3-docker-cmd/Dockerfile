@@ -1,0 +1,11 @@
+FROM 
+
+COPY
+
+RUN
+
+EXPOSE
+
+ENTRYPOINT
+
+CMD

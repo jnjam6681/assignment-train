@@ -1,0 +1,16 @@
+{
+  "name": "3-docker-cmd",
+  "version": "1.0.0",
+  "description": "assignment - 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
