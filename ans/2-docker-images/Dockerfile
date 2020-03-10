@@ -6,6 +6,4 @@ RUN  npm install
 
 EXPOSE 3000
 
-ENTRYPOINT [ "npm" ]
-
-CMD ["run", "start"]
+CMD npm run start
